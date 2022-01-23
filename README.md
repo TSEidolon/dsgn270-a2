@@ -38,4 +38,3 @@ Call to Action (CTA) critique:
 
 
 
-# dsgn270-a2
